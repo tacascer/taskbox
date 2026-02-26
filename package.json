@@ -36,7 +36,7 @@
     "chromatic": "^11.28.0",
     "msw": "^2.3.0",
     "msw-storybook-addon": "^2.0.4",
-    "storybook": "^8.6.12",
+    "storybook": "^8.6.17",
     "svelte": "^4.2.12",
     "vite": "^5.2.0"
   },
